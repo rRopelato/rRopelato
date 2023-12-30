@@ -18,10 +18,10 @@ Learned Languages
 
 <h2 align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ropelatoo&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rropelato&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ropelatoo&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rropelato&layout=compact&theme=tokyonight" />
 </a>
 </h2>
 
