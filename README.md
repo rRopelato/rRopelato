@@ -1,32 +1,10 @@
-<h2 align="center">
+🚀 **Welcome to my GitHub!**
 
+&emsp; ✨ **Passionate Programmer:** I'm Renan Ropelato, exploring the realms of data analysis with a goal to become a full-stack developer. Let's shape the future through code.
 
+&emsp; 💻 **Languages:** Proficient in Python, JavaScript, and VBA.
 
+&emsp; 📚 **Student Life:** Currently enrolled in Systems Analysis and Development at Unicesumar.
 
-About me</h2> 
-My name is Renan Ropelato. Novice programmer from Brazil 🇧🇷
-- Self Learned programmer
+&emsp; 🌐 **Professional Journey:** Working as a Data Assistant at Solução Financeira.
 
-<h2 align="left">
-Learned Languages
-
-  
-[![My Skills](https://skillicons.dev/icons?i=js,python,visualstudio,)](https://skillicons.dev)
-</h2>
-
-
-
-<h2 align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rropelato&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rropelato&layout=compact&theme=tokyonight" />
-</a>
-</h2>
-
-<h2 align="center">
-<a href="https://discord.com/users/220701036929613825">
-    <img title="visual" alt="visual" src="https://discord.c99.nl/widget/theme-1/220701036929613825.png"/>
-</a>
-</h2>
