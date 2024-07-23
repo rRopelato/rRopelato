@@ -14,5 +14,5 @@
  Languages: Python, JavaScript, Visual Basic
  Alias:     Ropelato
  E-mail:    r.ropelato@proton.me             | Discord: [220701036929613825]
- LinkedIn:  [LinkedIn Profile](https://www.linkedin.com/in/renan-ropelato/)
+ LinkedIn:  https://www.linkedin.com/in/renan-ropelato/
 ```
