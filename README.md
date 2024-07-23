@@ -7,7 +7,7 @@
  - Currently enrolled in Systems Analysis and Development at Unicesumar.
 
 ```
- **rropelato**
+ rropelato
 ----------------
  Degree:    Systems Analysis and Development | Institution: Unicesumar
  OS:        Windows 11
