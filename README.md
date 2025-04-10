@@ -2,4 +2,4 @@ Fullstack developer.
 
 Currently open to work.
 
-E-mail: r.ropelato@proton.me
+E-mail: r.ropelato@pm.me
