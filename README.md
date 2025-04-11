@@ -1,4 +1,5 @@
 Fullstack developer.
+PT | EN
 
 Currently open to work.
 
