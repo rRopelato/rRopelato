@@ -1,7 +1,7 @@
 ### Hello, I'm Ropelato  
 #### Welcome!
 
-🧐 I've always been curious about how technology works, which led me to study it. I'm currently working in the IT Department at Solução Financeira.
+🧐 I've always been curious about how technology works, which led me to study it. I'm currently working at IPM Sistemas.
 
 <div>
   <a href="https://github.com/rropelato">
